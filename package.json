@@ -1,0 +1,42 @@
+{
+	"name": "jpegorientation",
+	"description": "Tool for getting, setting and rotating jpeg images based on Exif rotation information",
+	"version": "1.0.0",
+	"author": {
+		"name": "Jeremy Condon",
+		"email": "jeremycondon@gmail.com"
+	},
+	"keywords": [
+		"nodejs",
+		"Rotate",
+		"JPEG",
+		"EXIF",
+		"Auto Rotate",
+		"image",
+		"graphicsmagick",
+		"imagemagick"
+	],
+	"engines": {
+		"node": ">= 0.4.2"
+	},
+	"bugs": {
+		"url": "http://github.com/jeremycondon/node-jpegorientation/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/mit-license.php"
+		}
+	],
+	"dependencies": {
+		"gm": "1.4.2"
+	},
+	"main": "./index",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jeremycondon/node-jpegorientation.git"
+	},
+	"readmeFilename": "README.md",
+	"_id": "node-jpegorientation@1.0.0",
+	"_from": "node-jpegorientation@1.0.0"
+}
