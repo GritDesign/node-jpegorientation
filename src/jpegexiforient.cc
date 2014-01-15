@@ -112,6 +112,7 @@ void OrientationAfter(uv_work_t* req)
 
   request->callback.Dispose();
 
+  free(request->filename);
   delete request;
 }
 
