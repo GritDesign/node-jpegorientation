@@ -20,7 +20,7 @@
 		"node": ">= 0.4.2"
 	},
 	"bugs": {
-		"url": "http://github.com/jeremycondon/node-jpegorientation/issues"
+		"url": "http://github.com/GritDesign/node-jpegorientation/issues"
 	},
 	"licenses": [
 		{
@@ -34,7 +34,7 @@
 	"main": "./index",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jeremycondon/node-jpegorientation.git"
+		"url": "https://github.com/GritDesign/node-jpegorientation.git"
 	},
 	"readmeFilename": "README.md",
 	"_id": "node-jpegorientation@1.0.0",
