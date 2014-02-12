@@ -1,7 +1,7 @@
 {
 	"name": "jpegorientation",
 	"description": "Tool for getting, setting and rotating jpeg images based on Exif rotation information",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": {
 		"name": "Jeremy Condon",
 		"email": "jeremycondon@gmail.com"
@@ -37,6 +37,6 @@
 		"url": "https://github.com/GritDesign/node-jpegorientation.git"
 	},
 	"readmeFilename": "README.md",
-	"_id": "node-jpegorientation@1.0.0",
-	"_from": "node-jpegorientation@1.0.0"
+	"_id": "node-jpegorientation@1.0.1",
+	"_from": "node-jpegorientation@1.0.1"
 }
