@@ -165,7 +165,7 @@ static Handle<Value> JpegOrientation(const Arguments& args)
         uv_work_t* req = new uv_work_t();
         req->data = request;
 
-        uv_queue_work(uv_default_loop(), req, OrientationWorker, OrientationAfter);
+        uv_queue_work(uv_default_loop(), req, OrientationWorker, (uv_after_work_cb) OrientationAfter);
     }
     else
     {
