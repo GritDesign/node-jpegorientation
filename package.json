@@ -1,7 +1,7 @@
 {
 	"name": "jpegorientation",
 	"description": "Tool for getting, setting and rotating jpeg images based on Exif rotation information",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"author": {
 		"name": "Jeremy Condon",
 		"email": "jeremycondon@gmail.com"
