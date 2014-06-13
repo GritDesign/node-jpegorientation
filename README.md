@@ -41,6 +41,8 @@ jpeg.orientation("IMG_0001.jpg", 5, function(err, orientation) {
 ## Installation
 
     npm install jpegorientation
+
+This package depends on [Node GM](https://github.com/aheckmann/gm) which requires Graphics Magick to be installed (Most system package managers have GraphicsMagick).  Although ImageMagick can be used with "GM", this module is not implemented to support ImageMagick, only GraphicsMagick.
     
 ## API Overview
 
